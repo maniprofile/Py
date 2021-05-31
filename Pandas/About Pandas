@@ -1,0 +1,19 @@
+
+
+Pandas is a Python package that provides fast, flexible, and expressive data structures designed to make working with structured (tabular, multidimensional, potentially heterogeneous) and time series data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
+
+
+Features
+
+DataFrame object for data manipulation with integrated indexing.
+Tools for reading and writing data between in-memory data structures and different file formats.
+Data alignment and integrated handling of missing data.
+Reshaping and pivoting of data sets.
+Label-based slicing, fancy indexing, and subsetting of large data sets.
+Data structure column insertion and deletion.
+Group by engine allowing split-apply-combine operations on data sets.
+Data set merging and joining.
+Hierarchical axis indexing to work with high-dimensional data in a lower-dimensional data structure.
+Time series-functionality: Date range generation[6] and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging.
+Provides data filtration.
+The library is highly optimized for performance, with critical code paths written in Cython or C
