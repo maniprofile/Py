@@ -1,0 +1,16 @@
+In this repositories I have executed all my codings through JUPYTER NOTEBOOK. Let's know a little about it.
+
+
+What is Jupyter Notebook?
+
+The Jupyter Notebook is an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. Jupyter Notebook is maintained by the people at Project Jupyter.
+
+
+Jupyter kernels
+
+
+A Jupyter kernel is a program responsible for handling various types of requests (code execution, code completions, inspection), and providing a reply. 
+Kernels talk to the other components of Jupyter using ZeroMQ, and thus can be on the same or remote machines. Unlike many other Notebook-like interfaces, in Jupyter, kernels are not aware that they are attached to a specific document, and can be connected to many clients at once. Usually kernels allow execution of only a single language, but there are a couple of exceptions.
+
+
+One major feature of the Jupyter notebook is the ability to display plots that are the output of running code cells. The IPython kernel is designed to work seamlessly with the matplotlib plotting library to provide this functionality. Specific plotting library integration is a feature of the kernel.
