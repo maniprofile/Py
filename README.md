@@ -1,4 +1,4 @@
-Repository to store sample programs.
+Py repository to store sample programs.
 
 This repository is meant for people to showcase my programs on Data Analytics. 
 
