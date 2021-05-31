@@ -1,0 +1,59 @@
+# Data-Science
+
+What is Data Science?
+
+
+Data science continues to evolve as one of the most promising and in-demand career paths for skilled professionals. 
+Today, successful data professionals understand that they must advance past the traditional skills of analyzing large amounts of data, data mining, and programming skills. 
+In order to uncover useful intelligence for their organizations, data scientists must master the full spectrum of the data science life cycle and possess a level of flexibility and understanding to maximize returns at each phase of the process.
+
+
+
+
+Data Scientists vs. Data Analysts vs. Data Engineers
+
+
+
+Data Analyst
+
+
+Data analysts share many of the same skills and responsibilities as a data scientist, and sometimes have a similar educational background as well. Some of these shared skills include the ability to:
+
+Access and query (e.g., SQL) different data sources
+
+Process and clean data
+
+Summarize data
+
+Understand and use some statistics and mathematical techniques
+
+Prepare data visualizations and reports
+
+Some of the key differences however, are that data analysts typically are not computer programmers, nor responsible for statistical modeling, machine learning, and many of the other steps outlined in the data science process above.
+
+The tools used are usually different as well. Data analysts often use tools for analysis and business intelligence like Microsoft Excel (visualization, pivot tables, …), Tableau, SAS, SAP, and Qlik.
+
+Analysts sometimes perform data mining and modeling tasks, but tend to use visual platforms such as IBM SPSS Modeler, Rapid Miner, SAS, and KNIME. Data scientists, on the other hand, perform these same tasks usually with tools such as R and Python, combined with relevant libraries for the language(s) being used.
+
+Lastly, data analysts tend to differ significantly in their interactions with top business managers and executives. Data analysts are often given questions and goals from the top down, perform the analysis, and then report their findings.
+
+
+
+Data Engineer
+
+
+
+Data engineers are becoming more important in the age of big data, and can be thought of as a type of data architect. They are less concerned with statistics, analytics, and modeling as their data scientist/analyst counterparts, and are much more concerned with data architecture, computing and data storage infrastructure, data flow, and so on.
+
+The data used by data scientists and big data applications often come from multiple sources, and must be extracted, moved, transformed, integrated, and stored (e.g., ETL/ELT) in a way that’s optimized for analytics, business intelligence, and modeling.
+
+Data engineers are therefore responsible for data architecture, and for setting up the required infrastructure. As such, they need to be competent programmers with skills very similar to someone in a DevOps role, and with strong data query writing skills as well.
+
+
+
+Data Scientist
+
+
+A data scientist on the other hand possesses all the skills of a data analyst with a strong foundation in modelling, analytics, math, statistics, and computer science. 
+ 
+What differentiates a data scientist from a data analyst is the strong acumen along with the ability to communicate the findings in the form of a story to both IT leaders and business stakeholders in such a way that it can influence the manner in which a company approaches a business challenge.
